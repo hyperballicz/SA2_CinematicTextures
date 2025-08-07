@@ -9,5 +9,5 @@ Put it bellow Cutscene Revamp, HD GUI and Menu Overhaul. Check the
 configuration screenshot, or else the cutscenes and the character life icons
 are not going to be affected, and the main screen will look buggy.
 
-** Links **
+**Links**
 Gamebanana page: https://gamebanana.com/mods/407368
